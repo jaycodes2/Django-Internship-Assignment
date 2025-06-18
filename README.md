@@ -1,6 +1,6 @@
-# FULL-STACK DJANGO API PLATFORM
+#  DJANGO API PLATFORM
 
-This is a powerful Django backend stack featuring:
+This is a  Django backend stack featuring:
 
 - Django REST Framework APIs (Public & Protected)  
 - Token and Web-based Authentication  
