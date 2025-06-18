@@ -148,18 +148,7 @@ Sends a welcome email using Celery (async task) and your SMTP credentials.
 On `/start` command, stores user ID, username, and first name to the DB.
 
 ---
-
-## FUTURE IMPROVEMENTS
-
-- Admin panel for Telegram users  
-- Frontend integration  
-- Docker support  
-- Telegram webhook instead of polling  
-- Advanced logging  
-
----
-
 ## CREDITS
 
-Built by **[Your Name]**  
-For educational and testing purposes.
+Built by **JAYANTHAN P**  
+EMAIL: jayanthan1944@gmail.com
